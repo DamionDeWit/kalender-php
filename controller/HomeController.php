@@ -2,5 +2,5 @@
 
 function index()
 {
-	render("home/index");	
+	header("Location:" . URL . "birthday");
 }
